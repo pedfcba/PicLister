@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<name>http://danbooru.donmai.us/post/index.xml?</name>
+<limit>limit=</limit>
+<page>&amp;page=</page>
+<tags>&amp;tags=</tags>
+<xml_root>posts</xml_root>
+<att>file_url</att>
+<page_limit>5</page_limit>
+</root>

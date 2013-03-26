@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<name>http://gelbooru.com/index.php?page=dapi&amp;s=post&amp;q=index&amp;</name>
+<limit>limit=</limit>
+<page>&amp;pid=</page>
+<tags>&amp;tags=</tags>
+<xml_root>posts</xml_root>
+<att>file_url</att>
+<page_limit>5</page_limit>
+</root>

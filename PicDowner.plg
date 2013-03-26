@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PicDowner - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Tadmin\LOCALS~1\Temp\RSPB8.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/PicDowner.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\TDDOWNLOAD\PicDowner\Splash.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Tadmin\LOCALS~1\Temp\RSPB8.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/PicDowner.pdb" /debug /machine:I386 /out:"Debug/PicDowner.exe" /pdbtype:sept  .\Debug\PicDowner.obj .\Debug\PicDownerDlg.obj .\Debug\Splash.obj .\Debug\StdAfx.obj .\Debug\PicDowner.res "
+<h3>Output Window</h3>
+Compiling...
+Splash.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/PicDowner.bsc"  .\Debug\StdAfx.sbr .\Debug\PicDowner.sbr .\Debug\PicDownerDlg.sbr .\Debug\Splash.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+PicDowner.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
